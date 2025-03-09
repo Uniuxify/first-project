@@ -1,9 +1,9 @@
-div {
+/* div {
   border: 1px red solid;
 }
 section {
   border: 1px green solid;
-}
+} */
 
 .link {
   color: #2f80ed;
@@ -132,6 +132,47 @@ section {
 
 .digits {
   margin-top: 100px;
+}
+
+.section-title {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+}
+.section-subtitle {
+  margin: auto;
+  margin-top: 20px;
+  width: 60%;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  
+}
+.table {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.table__cell {
+  margin-top: 60px;
+  width: 250px;
+}
+
+.table__heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
+.table__text {
+  margin-top: 20px;
+  line-height: 1.2;
+  font-size: 18px;
 }
 
 .feynman {
