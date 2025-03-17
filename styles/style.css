@@ -63,6 +63,8 @@ section {
   font-weight: 600;
 }
 
+
+
 .header__subtitle {
   width: 388px;
   z-index: 3;
@@ -113,7 +115,9 @@ section {
 .two-columns__brief {
   width: 175px;
   line-height: 1.2;
-  font: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
 }
 
 .two-columns__main-text {
@@ -124,6 +128,7 @@ section {
 }
 
 .two-columns__paragraf {
+  margin-top: 0;
   margin-bottom: 30px;
 }
 .two-columns__paragraf:last-of-type {
@@ -178,6 +183,7 @@ section {
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
+  margin-bottom: 0;
 }
 
 .feynman {
@@ -292,6 +298,7 @@ section {
 }
 
 .footer__column-heading {
+  margin: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: 600;
