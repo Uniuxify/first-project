@@ -1,0 +1,10 @@
+.footer__column-link {
+    line-height: 30px;
+    font-size: 19px;
+    color: white;
+    margin: 0;
+}
+
+.footer__column-link:has(.footer__social-icon) {
+    color: #c0c0c0;
+}
