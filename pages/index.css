@@ -75,7 +75,9 @@
 @import url(../blocks/techniques/techniques.css);
 
 @import url(../blocks/video/video.css);
-@import url(../blocks/video/__iframes/__iframes.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+
 
 
 
