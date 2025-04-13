@@ -80,19 +80,19 @@
 
 
 /* div, h1, h2, h3, a {
-  border: 1px red solid;
+  outline: 1px red solid;
 }
 section {
-  border: 1px green solid;
+  outline: 1px green solid;
 } */
 
   
-  /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-  
-  /* 
-  .content {
-    position: relative;
-  } */
+/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+
+/* 
+.content {
+  position: relative;
+} */
   
   
   
